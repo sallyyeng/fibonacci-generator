@@ -5,6 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "open test/testrunner.html",
+    "build": "gulp watchFibGen",
     "start": "open index.html"
   },
   "repository": {
