@@ -1,7 +1,7 @@
 # fibonacci-generator
-[View here](http://fibonacci-generator.s3-website-us-west-1.amazonaws.com/ "fibGen")
-
 ![Demo](https://github.com/sallyyeng/fibonacci-generator/blob/master/fib-gen.png)
+
+[View here](http://fibonacci-generator.s3-website-us-west-1.amazonaws.com/ "fibGen")
 
 Design and Development by Sally Eng
 
