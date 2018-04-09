@@ -5,16 +5,6 @@
 
 Design and Development by Sally Eng
 
-## Table of Contents
-
-1. [Requirements](#requirements)
-1. [Run Locally](#run-locally)
-    1. [Clone](#clone)
-    1. [Install Dependencies](#install-dependencies)
-    1. [Run Tasks](#run-tasks)
-    1. [Start App](#start-app)
-    1. [Test](#test)
-
 ## Requirements
 - Chai
 - Gulp-autoprefixer
